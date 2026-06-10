@@ -1,0 +1,8 @@
+bundle:
+  name: databricks-apps-cicd
+
+resources:
+  apps:
+    dbappresearch:
+      name: dbappresearch
+      source_code_path: .
